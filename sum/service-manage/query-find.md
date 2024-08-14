@@ -24,23 +24,23 @@ description: 查詢 ERP 系統匯入的維修案件資料。若有上傳照片�
 在 Search Box 輸入查詢資料可同時搜尋多個欄位，包括：\
 **客戶名稱、機型、機器號碼、控制器型號、服務編號、服務類別、說明、服務內容、問題、原因、解決方式**
 
-![範例圖片](https://machinery-service-management.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fo365cyut-my.sharepoint.com%2Fpersonal%2Fs10914185\_o365\_cyut\_edu\_tw%2FDocuments%2F%25E7%25B6%25AD%25E4%25BF%25AE%25E6%25A1%2588%25E4%25BE%258B%25E7%25AE%25A1%25E7%2590%2586%25E7%25B3%25BB%25E7%25B5%25B1%2520%28%25E5%25A4%25A7%25E7%25AB%258B%25E6%25A9%259F%25E6%25A2%25B0%29%2F24.07.16%2520%25E7%25B3%25BB%25E7%25B5%25B1%25E5%25BB%25BA%25E7%25BD%25AE%2F%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AA%25AA%25E6%2598%258E%2FQuery-IOS-1.png\&width=768\&dpr=4\&quality=100\&sign=6f125a4d\&sv=1)
+![範例圖片](../.gitbook/assets/Query-IOS-1.png)
 
 若只有上傳案件的照片但該案件尚未從 ERP 系統端匯入，系統會註記 "尚未匯入" 標籤。
 
-![範例圖片](https://machinery-service-management.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fo365cyut-my.sharepoint.com%2Fpersonal%2Fs10914185\_o365\_cyut\_edu\_tw%2FDocuments%2F%25E7%25B6%25AD%25E4%25BF%25AE%25E6%25A1%2588%25E4%25BE%258B%25E7%25AE%25A1%25E7%2590%2586%25E7%25B3%25BB%25E7%25B5%25B1%2520%28%25E5%25A4%25A7%25E7%25AB%258B%25E6%25A9%259F%25E6%25A2%25B0%29%2F24.07.16%2520%25E7%25B3%25BB%25E7%25B5%25B1%25E5%25BB%25BA%25E7%25BD%25AE%2F%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AA%25AA%25E6%2598%258E%2FQuery-IOS-2.png\&width=768\&dpr=4\&quality=100\&sign=f794a7f2\&sv=1)
+![範例圖片](../.gitbook/assets/Query-IOS-2.png)
 
 #### 查看案件詳細內容 <a href="#cha-kan-an-jian-xiang-xi-nei-rong" id="cha-kan-an-jian-xiang-xi-nei-rong"></a>
 
 點選搜㝷結果中的案件可以查看詳細資料：
 
-![範例圖片](https://machinery-service-management.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fo365cyut-my.sharepoint.com%2Fpersonal%2Fs10914185\_o365\_cyut\_edu\_tw%2FDocuments%2F%25E7%25B6%25AD%25E4%25BF%25AE%25E6%25A1%2588%25E4%25BE%258B%25E7%25AE%25A1%25E7%2590%2586%25E7%25B3%25BB%25E7%25B5%25B1%2520%28%25E5%25A4%25A7%25E7%25AB%258B%25E6%25A9%259F%25E6%25A2%25B0%29%2F24.07.16%2520%25E7%25B3%25BB%25E7%25B5%25B1%25E5%25BB%25BA%25E7%25BD%25AE%2F%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AA%25AA%25E6%2598%258E%2FQuery-IOS-3.png\&width=768\&dpr=4\&quality=100\&sign=4f7e846b\&sv=1)
+![範例圖片](../.gitbook/assets/Query-IOS-3.png)
 
 #### 查看案件的上傳附件 <a href="#cha-kan-an-jian-de-shang-chuan-fu-jian" id="cha-kan-an-jian-de-shang-chuan-fu-jian"></a>
 
 點選「附件」可查看上傳的附件。
 
-![範例圖片](https://machinery-service-management.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fo365cyut-my.sharepoint.com%2Fpersonal%2Fs10914185\_o365\_cyut\_edu\_tw%2FDocuments%2F%25E7%25B6%25AD%25E4%25BF%25AE%25E6%25A1%2588%25E4%25BE%258B%25E7%25AE%25A1%25E7%2590%2586%25E7%25B3%25BB%25E7%25B5%25B1%2520%28%25E5%25A4%25A7%25E7%25AB%258B%25E6%25A9%259F%25E6%25A2%25B0%29%2F24.07.16%2520%25E7%25B3%25BB%25E7%25B5%25B1%25E5%25BB%25BA%25E7%25BD%25AE%2F%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AA%25AA%25E6%2598%258E%2FQuery-IOS-4.png\&width=768\&dpr=4\&quality=100\&sign=936a0a0\&sv=1)
+![範例圖片](../.gitbook/assets/Query-IOS-4.png)
 
 ### 涵蓋需求 <a href="#han-gai-xu-qiu" id="han-gai-xu-qiu"></a>
 
