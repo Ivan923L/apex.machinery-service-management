@@ -1,6 +1,6 @@
 # Welcome
 
-### Maachinery Service Management 維修案例管理系統
+### Machinery Service Management 維修案例管理系統
 
 （An Oracle APEX APP）
 
