@@ -8,7 +8,7 @@ description: 為維修案例新增圖片、影片或 PDF 等附件，以便更�
 
 可於系統的 [案例附件上傳](https://gd8ce92aab9af75-ares.adb.ap-singapore-1.oraclecloudapps.com/ords/r/ares/machinery-service-management-system104/%E6%A1%88%E4%BE%8B%E9%99%84%E4%BB%B6%E4%B8%8A%E5%82%B3-main) 頁面上傳附件，記錄重要的畫面或影像，以協助故障診斷。
 
-手動填入或從清單挑選「服務編號」後，點擊「選擇檔案」按鈕上傳附件，點擊右上方 「上傳」按鈕，確認送出並新增至維修案例中，頁面會跳轉至 [快速查詢](https://machinery-service-management.gitbook.io/index/service-manage/query-find#kuai-su-cha-xun) 頁面並帶入上傳所輸入的服務編號。
+手動填入或從清單挑選「服務編號」後，點擊「選擇圖片」或「選擇檔案」按鈕上傳附件，點擊右上方 「上傳」按鈕，確認送出並新增至維修案例中，頁面會跳轉至 [快速查詢](https://machinery-service-management.gitbook.io/index/service-manage/query-find#kuai-su-cha-xun) 頁面並帶入上傳所輸入的服務編號。
 
 供維修人員可於「附件備註」欄位，註記上傳的內容，供日後使用。
 
@@ -22,21 +22,25 @@ description: 為維修案例新增圖片、影片或 PDF 等附件，以便更�
 
 可於「附件備註」註記本次上傳內容。
 
-點選「選擇檔案」，可選擇多張附件。
+點選「選擇圖片」或「選擇檔案」選擇要上傳的附件。
+
+「選擇圖片」能在上傳時進行單張圖片裁切，「選擇檔案」能一次上傳多個檔案，兩種上傳方式可同時使用。在點選「上傳」送出前，多次選擇附件不會覆蓋原先上傳內容。
 
 選擇完畢後，會在「附件預覽」中顯示。
 
 ![](../.gitbook/assets/Upload-IOS-1.png)
 
+![](../.gitbook/assets/Upload-IOS-2.png)
+
 ### 切換到「表格式預覽」 <a href="#qie-huan-dao-biao-ge-shi-yu-lan" id="qie-huan-dao-biao-ge-shi-yu-lan"></a>
 
 點選「附件預覽」右側的按鈕，可以切換到「表格式預覽」。
 
-![](../.gitbook/assets/Upload-IOS-2.png)
+![](../.gitbook/assets/Upload-IOS-3.png)
 
 點選右上方「上傳」按鈕上傳到系統。系統顯示完成訊息，並轉跳到「查詢案件」頁面。
 
-![](../.gitbook/assets/Upload-IOS-3.png)
+![](../.gitbook/assets/Upload-IOS-4.png)
 
 ## 涵蓋需求 <a href="#han-gai-xu-qiu" id="han-gai-xu-qiu"></a>
 
