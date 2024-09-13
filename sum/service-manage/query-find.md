@@ -4,7 +4,7 @@ description: 查詢 ERP 系統匯入的維修案件資料。若有上傳照片�
 
 # 查詢案例
 
-## 功能概述 <a href="#gong-neng-gai-shu" id="gong-neng-gai-shu"></a>
+## 功能概述 <a href="#description" id="description"></a>
 
 透過 [快速查詢](https://gd8ce92aab9af75-ares.adb.ap-singapore-1.oraclecloudapps.com/ords/r/ares/machinery-service-management-system104/%E6%A1%88%E4%BE%8B%E5%BF%AB%E9%80%9F%E6%9F%A5%E8%A9%A2-main) 頁面，能使用關鍵字（如：服務編號、PLC 錯誤代碼）同時查詢多個欄位，快速搜尋維修案件或相關案件。
 
@@ -17,9 +17,9 @@ description: 查詢 ERP 系統匯入的維修案件資料。若有上傳照片�
 
 倘若維修案例資料 **已有附件上傳，但尚未匯入 ERP 系統有關該案例的資料**，則搜尋結果中的服務類別顯示為尚未匯入，在案例詳情中，部分欄位空白且僅能查看已上傳的附件。
 
-## 操作說明 <a href="#cao-zuo-shuo-ming" id="cao-zuo-shuo-ming"></a>
+## 操作說明 <a href="#instructions" id="instructions"></a>
 
-### 查詢案件 <a href="#cha-xun-an-jian" id="cha-xun-an-jian"></a>
+### 查詢案件 <a href="#query-find" id="query-find"></a>
 
 在 Search Box 輸入查詢資料可同時搜尋多個欄位，包括：\
 **客戶名稱、機型、機器號碼、控制器型號、服務編號、服務類別、說明、服務內容、問題、原因、解決方式**
@@ -30,19 +30,19 @@ description: 查詢 ERP 系統匯入的維修案件資料。若有上傳照片�
 
 ![範例圖片](../.gitbook/assets/Query-IOS-2.png)
 
-### 查看案件詳細內容 <a href="#cha-kan-an-jian-xiang-xi-nei-rong" id="cha-kan-an-jian-xiang-xi-nei-rong"></a>
+### 查看案件詳細內容 <a href="#show" id="show"></a>
 
 點選搜㝷結果中的案件可以查看詳細資料：
 
 ![範例圖片](../.gitbook/assets/Query-IOS-3.png)
 
-### 查看案件的上傳附件 <a href="#cha-kan-an-jian-de-shang-chuan-fu-jian" id="cha-kan-an-jian-de-shang-chuan-fu-jian"></a>
+### 查看案件的上傳附件 <a href="#show-attachment" id="show-attachment"></a>
 
 點選「附件」可查看上傳的附件。
 
 ![範例圖片](../.gitbook/assets/Query-IOS-4.png)
 
-## 涵蓋需求 <a href="#han-gai-xu-qiu" id="han-gai-xu-qiu"></a>
+## 涵蓋需求 <a href="#cover-requirements" id="cover-requirements"></a>
 
 R02 維修人員查詢案例時能看到照片或錄影，以便更快速的了解案例的狀況。
 

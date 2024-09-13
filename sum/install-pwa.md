@@ -7,7 +7,7 @@ description: >-
 
 # 安裝應用程式
 
-#### 安裝操作 - IOS <a href="#an-zhuang-cao-zuo-ios" id="an-zhuang-cao-zuo-ios"></a>
+#### 安裝操作 - IOS <a href="#ios" id="ios"></a>
 
 使用 Safari 瀏覽器進入 [維修案例管理系統](https://gd8ce92aab9af75-ares.adb.ap-singapore-1.oraclecloudapps.com/ords/r/ares/machinery-service-management-system104/home) 並點擊瀏覽器工具列中的「共用」按鈕。
 
